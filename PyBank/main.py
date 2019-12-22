@@ -5,7 +5,7 @@ import csv
 
 #path to csvfile
 
-csvpath = os.path.join('PyBank','Resources', 'budget_data.csv')
+csvpath = os.path.join('Resources', 'budget_data.csv')
 
 #initializes the variables 
 total_months = 0
